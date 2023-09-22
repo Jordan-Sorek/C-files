@@ -1,1 +1,1 @@
-# C-files
+This repo contains the excercise programs
